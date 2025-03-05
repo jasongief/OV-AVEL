@@ -1,0 +1,24 @@
+# ======================================= Learning configs ==================================
+  n_epoch: 50
+  batch_size: 32
+  test_batch_size: 16
+  lr: 0.001
+  loss_weights: 0.5
+  clip_gradient: 0.5
+  start_epoch: 0
+  weight_decay: 5e-4
+
+
+# =========================== Model Configs ==============================
+
+  vis_fea_type: 'resnet'
+  threshold_value: 0.099
+  margin: 0.2
+  neg_num: 3
+  eta: 0.1
+  
+  # ======================================= Print and snapshot configs ==================================
+  snapshot_pref: ./exp/debug/123
+  print_freq: 100
+  eval_freq: 1
+
