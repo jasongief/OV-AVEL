@@ -1,10 +1,6 @@
 # Towards Open-Vocabulary Audio-Visual Event Localization
 
-<<<<<<< HEAD
-Please refer to our [Arxiv](http://arxiv.org/abs/2411.11278) paper for more details.
 
-The dataset and codes will be released soon.
-=======
 Jinxing Zhou, Dan Guo, Ruohao Guo, Yuxin Mao, Jingjing Hu, Yiran Zhong, Xiaojun Chang, Meng Wang
 
 Official code for our CVPR 2025 paper: [Towards Open-Vocabulary Audio-Visual Event Localization](https://arxiv.org/abs/2411.11278)
@@ -55,4 +51,3 @@ If our work is helpful for your research, please consider to give us a star and 
   year={2024}
 }
 ```
->>>>>>> origin/master
